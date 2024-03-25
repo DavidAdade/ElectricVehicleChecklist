@@ -1,6 +1,6 @@
-# Tesla Model Y Checklist #
+# Tesla Model 3 Checklist #
 
-This checklist synthesizes advice from the Tesla Model Y community, complementing Tesla's own quality checks by focusing on common issues that might slip through. It's designed to guide you through a detailed pre-delivery inspection, both exterior and interior, even if the vehicle is locked initially. Start with accessible checks, progressing methodically to ensure a thorough review.
+This checklist synthesizes advice from the Tesla Model 3 community, complementing Tesla's own quality checks by focusing on common issues that might slip through. It's designed to guide you through a detailed pre-delivery inspection, both exterior and interior, even if the vehicle is locked initially. Start with accessible checks, progressing methodically to ensure a thorough review.
 
 Safety first: avoid inserting hands in unseen areas. Dedicate at least 90 minutes to this process, documenting any discrepancies for Tesla's attention before finalizing delivery. This step-by-step approach aims to ensure your vehicle meets your expectations before you leave the dealership.
 

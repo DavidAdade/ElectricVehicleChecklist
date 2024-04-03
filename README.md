@@ -24,4 +24,19 @@ Happy Tesla Driving!
 
 ---
 
+Download the mobile application now available for iOS phones in the [App Store!](https://apps.apple.com/ca/app/electra-check/id6479584082)
+
+<table>
+  <tr>
+    <td>
+      <img src="iOSImages/Main.png" alt="Main" title="Optional title here" width="380" height="800">
+    </td>
+    <td>
+      <img src="iOSImages/Checklist.png" alt="Checklist" title="Optional title here" width="380" height="800">
+    </td>
+  </tr>
+</table>
+
+---
+
 Loved the guide? Supercharge your Tesla journey with my [referral link!](https://www.tesla.com/referral/david248286) It’s your pass to an electrifying adventure, supporting me to bring more cool insights. Let’s ride into the future together, stylishly and sustainably! 🚗💨
